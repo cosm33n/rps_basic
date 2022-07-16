@@ -21,6 +21,8 @@ h1 {
     justify-content:center;
     gap:3em;
     margin: 5em;
+    flex: 0 2 0;
+    flex-wrap: wrap;
 
 }
 button {
