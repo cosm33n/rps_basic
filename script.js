@@ -51,8 +51,7 @@ function playRound(playerSelection) {
         disableButtons();
     }
         
-    // const blankText =  '              s               ';
-    message = `Your Score:${pScore}  Computer Score: ${cScore}`;
+    message = `Your Score:${pScore}  Computer Score:${cScore}`;
     document.getElementById('result').textContent = roundWinner;
     document.getElementById('message').innerHTML = message;
     return;

@@ -20,7 +20,7 @@ h1 {
     display: flex;
     justify-content:center;
     gap:3em;
-    margin: 10em;
+    margin: 5em;
 
 }
 button {
@@ -37,5 +37,5 @@ button {
 #message {
     font-size: 3em;
     text-align: center;
-    margin: 3em;
+    margin: 1em;
 }
